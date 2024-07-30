@@ -10,6 +10,7 @@ export class RecipesListComponent implements OnInit {
 
  recipes: Recipe[] = [
   new Recipe('A Test Recipe', 'This is for test'),
+  new Recipe('A Test Recipe', 'This is for test'),
   new Recipe('A Test Recipe', 'This is for test')
 
  ];
