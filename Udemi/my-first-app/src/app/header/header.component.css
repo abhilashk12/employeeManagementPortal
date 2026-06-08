@@ -1,3 +1,9 @@
 .abc{
     background-color: greenyellow;
 }
+
+/* Page title */
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
